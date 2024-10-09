@@ -17,6 +17,6 @@ public class RootsOfQuadraticEquation {
         System.out.println("Roots of the quadratic equation "+a+"x^2 + "+b+"x + "+c+" = 0, are:");
         System.out.println("r1 = "+ r1);
         System.out.println("r2 = "+ r2);
-        
+    
     }
-}
+};
